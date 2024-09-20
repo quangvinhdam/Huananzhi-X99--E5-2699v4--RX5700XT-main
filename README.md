@@ -1,4 +1,4 @@
-Hackintosh on Huananzhi X99-F8D Plus - E5-2699v4 -RX5700XT
+# Hackintosh on Huananzhi X99-F8D Plus - E5-2699v4 -RX5700XT
 
 Specification:
 - CPU: 22-Core Intel Xeon E5-2699 v4, 3400 MHz (34 x 100)
@@ -8,6 +8,7 @@ Specification:
 - Disk Drive: WD_BLACK SN770 1TB (1000 GB, PCI-E 4.0 x4)
 - Wireless Adapter: BCM9430CDP
 - Ethernet Adapter: Realtek Gaming 2.5GbE Family Controller
+
 What’s working?
 - QE/CI Graphics of Gigabyte RX 5700XT
 - CPU Power Management
@@ -31,4 +32,3 @@ Credits
 - Dortania for great and detailed guides.
 - Koshak1013 for BIOS mod version.
 - markkpa for BIOS setting.
-- Special thanks: Ngọc Minh☑️ for trusting and using my service.
